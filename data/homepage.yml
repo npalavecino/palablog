@@ -1,0 +1,109 @@
+head:
+  title: "Nicolás Palavecino | SRE & Engineering Manager"
+  description: "Personal site for Nicolás Palavecino, SRE & Engineering Manager with a strong background in quality, performance, and observability. With over a decade of experience in IT operations and leadership, he has led distributed teams across Latin America and globally. Focused on transforming complex operations into simple, scalable, and resilient systems with real business impact."
+
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Nicolás."
+  subtitle: "SRE & Engineering Manager"
+  description: "Based in Santiago 🇨🇱, I lead distributed teams across Latin America and other regions worldwide, focusing on SRE, QA, and Performance. I’m passionate about turning complex operations into simple and reliable experiences, connecting technology, people, and strategy. I work within a <em>build it, run it</em> culture, emphasizing efficiency, stability, and response time.<br/><strong>My focus is on leading digital transformation initiatives with real business impact, while strengthening an executive vision aimed at creating value through technology.</strong>"
+  image:
+    alt: "Profile picture of Nicolás Palavecino"
+    x: "images/nicolas.jpg"
+    _2x: "images/nicolas@2x.jpg"
+  imageMobile:
+    alt: "Profile picture of Nicolás Palavecino"
+    x: "images/nicolas.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "#contact"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/nmpalavecino/"
+
+    - icon: "github"
+      URL: "https://github.com/npalavecino"
+
+    - icon: "instagram"
+      URL: "https://instagram.com/kreangapala"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead" style="font-size:16px;">
+    I currently lead SRE, QA, and Performance teams in the logistics and retail sector. With experience managing distributed teams in Latin America and globally, my work focuses on aligning technology with business impact through observability, test automation, and reliable operations.
+    </p>
+    <p class="lead" style="font-size:16px;">
+    My journey began in IT operations and evolved through roles in infrastructure, cloud, automation, and leadership. I believe in a hands-on, servant-leadership approach—connecting systems thinking, continuous improvement, and strategic vision.
+    </p>
+    <p class="lead" style="font-size:16px;">
+    I’m focused on building the path toward an executive role (CTO/COO), grounded in strong engineering fundamentals, collaborative leadership, and business acumen.
+    </p>'
+
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/nmpalavecino/"
+  image:
+    x: "images/about-me.png"
+    _2x: "images/about-me@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "Tu Universidad o Diplomado"
+      year: "Año de inicio - Año de término"
+      degree: "Ingeniería, Tecnología o MBA (en progreso si aplica)"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I have 10+ years of experience in IT operations, SRE, quality engineering, and performance leadership, working across diverse platforms and industries in Latin America and globally."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "LinkedIn"
+    URL: "https://www.linkedin.com/in/nmpalavecino/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download résumé"
+    URL: "/files/cv_nicolas_palavecino.pdf"
+
+# talks
+talks:
+  enable: false
+  title: "Talks"
+  content: ""
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/nmpalavecino/"
+  image:
+    x: "images/about-me.png"
+    _2x: "images/about-me@2x.png"
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items: []
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "https://formspree.io/f/xleyknvr"
+    method: "POST"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  button:
+    icon: "icon-mail-fill"

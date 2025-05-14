@@ -9,33 +9,21 @@ draft = false
     title="Hello, I'm Nicolas"
     subtitle="IT Manager | Logistics & Retail Tech" 
     buttonText="Email"
-    description="I lead distributed teams across Latin America and other regions worldwide, focusing on SRE, QA, and Performance. I’m passionate about turning complex operations into simple and reliable experiences, connecting technology, people, and strategy. I work within a <em>build it, run it</em> culture, emphasizing efficiency, stability, and response time.<br/><strong>My focus is on leading digital transformation initiatives with real business impact, while strengthening an executive vision aimed at creating value through technology.</strong>"
+    description="Based in Santiago 🇨🇱, I lead distributed teams across Latin America and other regions worldwide, focusing on SRE, QA, and Performance. I’m passionate about turning complex operations into simple and reliable experiences, connecting technology, people, and strategy. I work within a <em>build it, run it</em> culture, emphasizing efficiency, stability, and response time.<br/><strong>My focus is on leading digital transformation initiatives with real business impact, while strengthening an executive vision aimed at creating value through technology.</strong>"
     imgSrc="images/showcase/showcase.png"
     imgScale="0.5"
+    button_text="Contact" 
+    button_icon="icon-mail-fill" 
+    URL="#contact"
  >}}
 
 {{< platform-links >}}
-    {{< link icon="square-facebook" url="https://facebook.com/yourpage" >}}
-    {{< link icon="square-twitter" url="https://twitter.com/yourpage" >}}
-    {{< link icon="linkedin" url="https://www.linkedin.com/in/adrianmoreno/" >}}
-    {{< link icon="square-github" url="https://github.com/zetxek" >}}
-    {{< link icon="x-twitter" url="https://twitter.com/zetxek" >}}
-    {{< link icon="dribbble" url="#" >}}
-    {{< link icon="behance" url="#" >}}
-    {{< link icon="youtube" url="#" >}}
-    {{< link icon="instagram" url="https://www.instagram.com/zetxek/" >}}
-    {{< link icon="square-facebook" url="https://www.facebook.com/zetxek/" >}}
-    {{< link icon="codepen" url="#" >}}
-    {{< link icon="yelp" url="https://www.yelp.com/" >}}
-    {{< link icon="bluesky" url="https://www.bluesky.com/" >}}
-    {{< link icon="threads" url="https://www.threads.net/" >}}
-    {{< link icon="face-smile" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="user" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="quote-left" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="cloud-arrow-down" url="https://www.adrianmoreno.info/" >}}
-    {{< link icon="square-xing" url="https://www.adrianmoreno.info/" >}}
-
+    {{< link icon="square-github" url="https://github.com/npalavecino" >}}
+    {{< link icon="instagram" url="https://www.instagram.com/kreangpala/" >}}
+    {{< link icon="linkedin" url="https://www.linkedin.com/in/nmpalavecinov/" >}}
 {{< /platform-links >}}
+
+
 
 {{< /showcase-section >}}
 
@@ -48,6 +36,8 @@ draft = false
     imgSrc="images/about/user-picture.png"
     imgScale="0.5"
  >}}
+
+
 
 {{< education-list
     title="Formal Education (education-list)" >}}
