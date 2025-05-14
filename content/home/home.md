@@ -33,8 +33,9 @@ draft = false
     button_icon="icon-user"
     button_text="You can edit the text, link and icon"
     button_url="https://www.google.com"
-    imgSrc="images/about/user-picture.png"
-    imgScale="0.5"
+    imgSrc="images/about/user-nicolas.png"
+    imgScale="0.8"
+    imgAlign="right"
  >}}
 
 
